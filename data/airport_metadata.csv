@@ -1,0 +1,2 @@
+airport_name,iata_code,icao_code,latitude,longitude,airport_type,owner,operator,serves,location,elevation,source_url,retrieved_utc
+Frankfurt Airport,FRA,EDDF,50.03333,8.57056,Public,,,Frankfurt Rhine-Main,"Frankfurt , Hesse",364 ft (111 m),https://en.wikipedia.org/wiki/Frankfurt_Airport,2026-10-28T12:43:34+00:00

@@ -1,0 +1,2 @@
+airport_name,iata_code,icao_code,latitude,longitude,airport_type,owner,operator,serves,location,elevation,source_url,retrieved_utc
+Almaty International Airport,ALA,UAAA,43.35528,77.04472,Public,Groupe ADP,TAV Airports Holding,Almaty,"Almaty, Kazakhstan (inside city limits)","681 m (2,234 ft)",https://en.wikipedia.org/wiki/Almaty_International_Airport,2026-10-12T13:04:32+00:00
